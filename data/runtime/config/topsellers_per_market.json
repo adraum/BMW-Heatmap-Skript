@@ -1,0 +1,161 @@
+{
+    "US":  {
+               "coverage":  70.4,
+               "topsellers":  [
+                                  "G45-NON-BEV",
+                                  "G05-NON-BEV",
+                                  "G20-NON-BEV",
+                                  "G07-NON-BEV",
+                                  "U11-NON-BEV",
+                                  "G60-NON-BEV",
+                                  "G26-BEV"
+                              ],
+               "budget":  405082,
+               "count":  7
+           },
+    "IT":  {
+               "coverage":  72.7,
+               "topsellers":  [
+                                  "U11-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "U10-NON-BEV",
+                                  "G21-NON-BEV"
+                              ],
+               "budget":  70384,
+               "count":  5
+           },
+    "ES":  {
+               "coverage":  70.8,
+               "topsellers":  [
+                                  "U11-NON-BEV",
+                                  "U10-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "NA5-BEV"
+                              ],
+               "budget":  48636,
+               "count":  5
+           },
+    "FR":  {
+               "coverage":  74.3,
+               "topsellers":  [
+                                  "U11-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "U11-BEV",
+                                  "NA5-BEV",
+                                  "U10-NON-BEV"
+                              ],
+               "budget":  56634,
+               "count":  5
+           },
+    "KR":  {
+               "coverage":  71.3,
+               "topsellers":  [
+                                  "G60-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "G05-NON-BEV",
+                                  "G20-NON-BEV",
+                                  "G70-NON-BEV",
+                                  "G07-NON-BEV",
+                                  "G60-BEV"
+                              ],
+               "budget":  79000,
+               "count":  7
+           },
+    "DE":  {
+               "coverage":  71.8,
+               "topsellers":  [
+                                  "NA5-BEV",
+                                  "U11-NON-BEV",
+                                  "U11-BEV",
+                                  "F70-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "G21-NON-BEV",
+                                  "G26-BEV",
+                                  "G05-NON-BEV",
+                                  "G61-NON-BEV",
+                                  "G60-NON-BEV"
+                              ],
+               "budget":  135341,
+               "count":  10
+           },
+    "NL":  {
+               "coverage":  71.2,
+               "topsellers":  [
+                                  "NA5-BEV",
+                                  "U11-BEV",
+                                  "U11-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "G21-NON-BEV",
+                                  "G61-NON-BEV",
+                                  "G26-BEV"
+                              ],
+               "budget":  22850,
+               "count":  8
+           },
+    "GB":  {
+               "coverage":  72.4,
+               "topsellers":  [
+                                  "F70-NON-BEV",
+                                  "U11-NON-BEV",
+                                  "NA5-BEV",
+                                  "G45-NON-BEV",
+                                  "U11-BEV",
+                                  "F74-NON-BEV",
+                                  "G05-NON-BEV",
+                                  "U10-NON-BEV",
+                                  "U10-BEV",
+                                  "G20-NON-BEV"
+                              ],
+               "budget":  128048,
+               "count":  10
+           },
+    "JP":  {
+               "coverage":  70.6,
+               "topsellers":  [
+                                  "U11-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "G45-NON-BEV",
+                                  "U10-NON-BEV",
+                                  "F74-NON-BEV",
+                                  "G20-NON-BEV",
+                                  "G26-NON-BEV",
+                                  "G07-NON-BEV"
+                              ],
+               "budget":  39000,
+               "count":  8
+           },
+    "CS":  {
+               "coverage":  72.5,
+               "topsellers":  [
+                                  "G45-NON-BEV",
+                                  "U11-NON-BEV",
+                                  "NA5-BEV",
+                                  "G05-NON-BEV",
+                                  "F70-NON-BEV",
+                                  "G60-NON-BEV",
+                                  "U10-NON-BEV",
+                                  "U11-BEV",
+                                  "G20-NON-BEV",
+                                  "G61-NON-BEV",
+                                  "G07-NON-BEV"
+                              ],
+               "budget":  79138,
+               "count":  11
+           },
+    "BELUX":  {
+                  "coverage":  71.4,
+                  "topsellers":  [
+                                     "NA5-BEV",
+                                     "U11-BEV",
+                                     "U11-NON-BEV",
+                                     "F70-NON-BEV",
+                                     "G26-BEV",
+                                     "U10-BEV"
+                                 ],
+                  "budget":  51511,
+                  "count":  6
+              }
+}
